@@ -34,7 +34,7 @@ body {
   height: 100vh;
 }
 
-@media (max-width: 425px) {
+@media (max-width: 767px) {
   .box {
     max-width: 300px !important;
   }
